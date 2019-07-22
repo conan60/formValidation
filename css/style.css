@@ -1,0 +1,24 @@
+/* --------------------------------------------------------
+Style Sheet for Form Validation
+
+version: 1.0
+last modified: 22.07.2019
+author: Malek Gorchene
+email: malek.gorchene@gmail.com
+----------------------------------------------------------*/
+
+#content{
+    min-height: 100vh;
+    padding: 30px 0;
+    background-image: linear-gradient(135deg,#5e3244,#242758);  
+}
+#content label,#content input,#content textarea{
+    color: white;
+}
+#content input,#content textarea{
+    border: 1px inset;
+    border-radius: 4px;
+    background-color: #30283f;
+    margin-bottom: 20px;
+}
+
